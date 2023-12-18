@@ -99,7 +99,7 @@ body {
   align-self: center;
 }
 
-/* seta modal */
+/* seta submenu */
 .cabecalho__lista-item .icone.active {
   transform: rotate(180deg);
 }
